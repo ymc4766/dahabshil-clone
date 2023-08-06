@@ -39,8 +39,8 @@ const Navbar = () => {
 
         <div className="flex items-center md:mr-10 ">
           <button
-            className=" hidden md:flex px-4 bg-slate-300 mr-4 border
-           border-gray-200 p-2  rounded-sm  hover:bg-gray-200 hoover:text-black"
+            className=" hidden md:flex px-4 bg-gray-100 text-gray-800 mr-4 border
+           border-gray-800 p-2  rounded-sm  hover:bg-gray-600 hoover:text-gray-800"
           >
             Sign in
           </button>
